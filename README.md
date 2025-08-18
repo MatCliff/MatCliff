@@ -3,13 +3,13 @@
 # 💫 About Me:
 <h3 align="center">An Informatics student exploring the world of Informatics. This space is a collection of my projects and code experiments, this is where I document my progress. You'll find a variety of projects here, from FaciltyOverride which is a simple game to calculating bisection method website project.</h3>
 
-- 🌱 I’m currently learning **(insert in a later date)**
+<!-- - 🌱 I’m currently learning **(insert in a later date)**
 
-- 👨‍💻 All of my projects are available at [(insert in a later date)]((insert in a later date))
+- 👨‍💻 All of my projects are available at [(insert in a later date)]((insert in a later date))-->
 
 - 📫 How to reach me **matthewclifford08123@gmail.com**
 
-- 📄 Know about my experiences [(insert in a later date)]((insert in a later date))
+<!-- - 📄 Know about my experiences [(insert in a later date)]((insert in a later date))-->
 
 - ⚡ Fun fact **I also like editing videos.**
 
