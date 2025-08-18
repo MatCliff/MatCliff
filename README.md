@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Matthew Clifford Kurniawan</h1>
 
 # 💫 About Me:
-<h3 align="center">An Informatics student exploring the world of Informatics. This space is a collection of my projects and code experiments, this is where I document my progress. You'll find a variety of projects here, from FaciltyOverride which is a simple game to calculating bisection method website project.</h3>
+<h3 align="center">An Informatics student exploring the world of Informatics. This space is a collection of my projects and code experiments, this is where I document my progress. You'll find a variety of projects here, like Capstone Esport Web <!--which is a simple game to calculating bisection method website project-->.</h3>
 
 <!-- - 🌱 I’m currently learning **(insert in a later date)**
 
